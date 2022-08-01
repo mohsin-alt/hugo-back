@@ -1,0 +1,44 @@
+---
+title: Arizona “Way Out West” — Sign Up for a chance to WIN an IPOD!
+author: Shaikh Aryan Bilal
+type: post
+date: 2008-05-01T15:27:55+00:00
+url: /nevada-educational-computing-strategist-sign-up-for-a-chance-to-win-an-ipod/
+categories:
+  - News
+
+---
+<p class="entry">
+  &nbsp;
+</p>
+
+### AzTea &#8220;Way Out West&#8221; (WOW)
+
+**When:** May 3, 2008  
+**Where:** ASU West  
+**Why:** <font size="2" face="Verdana, Arial, Helvetica, sans-serif">The Arizona Technology in Education Alliance (AzTEA), an International Society for Technology in Education (ISTE) affiliate, is a professional non-profit organization devoted to increasing student achievement through technology in teaching and learning. Our mission is to empower the educational community in Arizona to infuse technology as an integral part of the educational process. We do this by providing advocacy and leadership, promoting educational reform, and supporting technology based innovation through our services, activities, programs, and collaborative efforts.</font>  
+<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>The Hyper-Connected Student in the Accountability-Driven Classroom</strong><br /> Digital natives are living with podcasting, YouTube, TeacherTube, Flickr, Zoomr, RSS, the Social Web, mp3 players, FaceBook, My Space, Blogger, Twitter, Tweet, Skypecasting, Slideshare, photocasting, Second Life, online gaming, (the list could go on and on), and every other &#8220;new&#8221; and exciting Web 2.0 technology that was &#8220;just announced today.&#8221; But the reality of school is that we work, teach, and learn in the Age of Accountability. This presentation will reflect on the continuous partial attention of the students in what is now becoming a hyper connected classroom. What is the teacher to do?! Dr. Tyson will explore learning beyond minimum standards but within the grasp of limited resources.</font>
+
+<p align="center">
+  <strong>Come by our booth and sign up for a chance to WIN an IPOD!!</strong>
+</p>
+
+<a href="http://www.aztea.org/conferences.html#wow" title="WOW" target="_blank" rel="noopener">CLICK HERE</a> <a href="http://www.aztea.org/conferences.html#wow" title="WOW" target="_blank" rel="noopener"></a>for the AzTEA WOW Website
+
+<p align="right">
+  <a href="http://www.backbonecommunications.com/conferences" title="Conferences">>> ALL BACKBONE Attended Conferences</a>
+</p>
+
+<p class="border">
+  &nbsp;
+</p>
+
+[The Backbone Team][1]
+
+<p class="border">
+  &nbsp;
+</p>
+
+<span style="font-size: 8pt"><a href="http://www.backbonecommunications.com/default-category/state-test-prep-software" title="State Test Prep">State Test Prep Software</a>, <a href="http://www.backbonecommunications.com/default-category/aims-test-prep-software" title="AIMS Test Prep">AIMS Test Prep Software</a>, <a href="http://www.backbonecommunications.com/default-category/online-formative-assessments" title="Online Formative Assessment">Online Formative Assessments</a>, <a href="http://www.backbonecommunications.com/default-category/universal-screening" title="Universal Screening">Universal Screening</a>, <a href="http://www.backbonecommunications.com/default-category/high-school-credit-recovery-software" title="High School Credit Recovery Software">High School Credit Recovery Software</a>, <a href="http://www.backbonecommunications.com/default-category/ged-prep-software/" title="GED Prep Software">GED Prep Software</a>, <a href="http://www.backbonecommunications.com/default-category/reading-intervention-software" title="Reading Intervention Software">Reading Intervention Software</a>, <a href="http://www.backbonecommunications.com/default-category/math-intervention-software" title="Math Intervention Software">Math Intervention Software</a>, <a href="http://www.backbonecommunications.com/reading-math-intervention/rti-response-to-intervention/" title="Response to Intervention (RTI) Software">Response to Intervention (RtI) Software</a>, <a href="http://www.backbonecommunications.com/default-category/special-education-software" title="Special Education Software">Special Education Software</a>, <a href="http://www.backbonecommunications.com/default-category/english-language-learning-ell-software" title="English Language Learning (ELL) Software">English Language Learning (ELL) Software</a>, <a href="http://www.backbonecommunications.com/default-category/english-language-development-eld-programs/" title="English Language Development (ELD) Programs">English Language Development (ELD) Programs</a>, <a href="http://www.backbonecommunications.com/default-category/interactive-whiteboards" title="Interactive Whiteboard Alternative">Interactive Whiteboards</a>, <a href="http://www.backbonecommunications.com/default-category/classroom-clicker-software" title="Classroom Clicker Software">Classroom Clicker Software</a>, <a href="http://www.backbonecommunications.com/default-category/state-standards-aligned-curriculum" title="Standards Aligned Curriculum">State Standards Aligned Curriculum</a>, <a href="http://www.backbonecommunications.com/default-category/curriculum-software/" title="Curriculum Software">Curriculum Software</a>, <a href="http://www.backbonecommunications.com/default-category/educational-software/" title="Educational Software">Educational Software</a>, <a href="http://www.backbonecommunications.com/default-category/lexiles-quantiles/" title="Lexiles & Quantiles">Lexiles & Quantiles</a></span>
+
+ [1]: http://www.backbonecommunications.com/about-us

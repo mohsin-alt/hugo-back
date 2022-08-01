@@ -1,0 +1,6 @@
+
+{{ define "main" }}
+<div class=" {{- .Params.pagecss  -}}">
+      {{ .Content | replaceRE "<p>" "<p class=\"textformat\">" | safeHTML }}
+      </div>
+{{ end }}

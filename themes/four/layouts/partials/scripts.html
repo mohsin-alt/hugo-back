@@ -1,0 +1,13 @@
+
+{{ $bootstrapbundletwo := resources.Get "js/lib/wow/wow.min.js" }}
+<script src="{{ $bootstrapbundletwo.Permalink }}"></script>   
+{{ $bootstrapbundlethree := resources.Get "js/lib/easing/easing.min.js" }}
+<script src="{{ $bootstrapbundlethree.Permalink }}"></script>  
+{{ $bootstrapbundlefour := resources.Get "js/lib/waypoints/waypoints.min.js" }}
+    <script src="{{ $bootstrapbundlefour.Permalink }}"></script>
+    {{ $bootstrapbundlefour := resources.Get "js/lib/owlcarousel/owl.carousel.min.js" }}
+    <script src="{{ $bootstrapbundlefour.Permalink }}"></script>
+    {{ $bootstrapbundlefive := resources.Get "js/main.js" }}
+    <script src="{{ $bootstrapbundlefive.Permalink }}"></script>
+    
+<!-- Add your custom JS below this line -->

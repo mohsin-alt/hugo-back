@@ -1,0 +1,130 @@
+
+---Downloaded files---
+The import files for: Demo Import Nolez were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://backbone.digitalgrowthfactor.co.uk
+Data file = /home/dgf/domains/digitalgrowthfactor.co.uk/public_html/backbone/wp-content/uploads/2022/03/demo-content-import-file_2022-03-14__14-39-00.xml
+Widget file = /home/dgf/domains/digitalgrowthfactor.co.uk/public_html/backbone/wp-content/uploads/2022/03/demo-widgets-import-file_2022-03-14__14-39-00.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[ERROR] Failed to import "about3" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search Course - No Title - Imported
+Categories - No Title - Imported
+ Recent Posts - No Title - Imported
+Tag Cloud - Popular Tags - Imported
+Text - No Title - Imported
+
+Course Details Sidebar : 
+
+Text - Course Info - Imported
+Text - Our Gallery - Imported
+
+Course Sidebar : 
+
+Search Course - Find Your Courses - Imported
+Category Course - Categories - Imported
+ Recent Course - Latest Courses - Imported
+Text - Our Gallery - Imported
+
+Footer 1st Widget : 
+
+Text - Recent News - Imported
+
+Footer 2nd Widget : 
+
+Text - Latest Courses - Imported
+
+Footer 3rd Widget : 
+
+Text - No Title - Imported
+
+Footer 4th Widget : 
+
+Text - Don&#039;t Hesitate To Contact With Us. We Are Always Ready To Help You - Imported
+
+Footer 5th Widget : 
+
+Text - Subscribe Our Newsletter To Get More Update &amp; Join Our Course Info - Imported
+
+Footer Home 2 4th Widget : 
+
+Text - Photo Gallery - Imported
+
+Footer Home 4 1st Widget : 
+
+Text - Quick Link - Imported
+
+Footer Home 4 2nd Widget : 
+
+Text - Contact Us - Imported
+
+Footer Home 4 3rd Widget : 
+
+Text - Our Courses - Imported
+
+
+
+---ocdi/after_import---
+

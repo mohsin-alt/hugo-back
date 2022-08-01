@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: Demo Import Nolez were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://backbone.digitalgrowthfactor.co.uk
+Data file = /home/dgf/domains/digitalgrowthfactor.co.uk/public_html/backbone/wp-content/uploads/2022/03/demo-content-import-file_2022-03-14__13-39-15.xml
+Widget file = /home/dgf/domains/digitalgrowthfactor.co.uk/public_html/backbone/wp-content/uploads/2022/03/demo-widgets-import-file_2022-03-14__13-39-15.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search Course - No Title - Widget already exists
+Categories - No Title - Widget already exists
+ Recent Posts - No Title - Widget already exists
+Tag Cloud - Popular Tags - Widget already exists
+Text - No Title - Widget already exists
+
+Course Details Sidebar : 
+
+Text - Course Info - Widget already exists
+Text - Our Gallery - Widget already exists
+
+Course Sidebar : 
+
+Search Course - Find Your Courses - Widget already exists
+Category Course - Categories - Widget already exists
+ Recent Course - Latest Courses - Widget already exists
+Text - Our Gallery - Widget already exists
+
+Footer 1st Widget : 
+
+Text - Recent News - Widget already exists
+
+Footer 2nd Widget : 
+
+Text - Latest Courses - Widget already exists
+
+Footer 3rd Widget : 
+
+Text - No Title - Widget already exists
+
+Footer 4th Widget : 
+
+Text - Don&#039;t Hesitate To Contact With Us. We Are Always Ready To Help You - Widget already exists
+
+Footer 5th Widget : 
+
+Text - Subscribe Our Newsletter To Get More Update &amp; Join Our Course Info - Widget already exists
+
+Footer Home 2 4th Widget : 
+
+Text - Photo Gallery - Widget already exists
+
+Footer Home 4 1st Widget : 
+
+Text - Quick Link - Widget already exists
+
+Footer Home 4 2nd Widget : 
+
+Text - Contact Us - Widget already exists
+
+Footer Home 4 3rd Widget : 
+
+Text - Our Courses - Widget already exists
+
+
+
+---ocdi/after_import---
+
