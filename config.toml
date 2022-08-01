@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://heroic-sunflower-159eb0.netlify.app/"
 languageCode = "en-us"
 title = "Backbone Communication"
 theme = "four"
